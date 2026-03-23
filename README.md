@@ -7,3 +7,12 @@
 git clone ....
 cd ...
 ```
+## Sample code
+
+'''python
+num: int = 10
+names: list = [10, 20, 30]
+
+def test():
+    pass
+'''   
